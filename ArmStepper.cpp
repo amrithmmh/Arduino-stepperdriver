@@ -1,3 +1,5 @@
+// For use with sparkfun easystepper
+
 #include "Arduino.h"
 #include "ArmStepper.h"
 
